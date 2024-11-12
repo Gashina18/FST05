@@ -36,4 +36,5 @@ git commit -m "description of your changes
 //check commit history in git 
 git log
 
-
+//check commit summarized history in git 
+git log --oneline 
