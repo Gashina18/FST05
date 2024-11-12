@@ -38,3 +38,7 @@ git log
 
 //check commit summarized history in git 
 git log --oneline 
+
+//change / duplicate a commit version's message 
+git commit --amend -m "description of your change"
+
