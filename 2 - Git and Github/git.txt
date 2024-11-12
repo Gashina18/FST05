@@ -1,0 +1,34 @@
+//check version of git 
+git --version 
+
+//configure username
+git config user.name "your username"
+
+//configure user email
+git config user.email "your email"
+
+//check your username in git 
+git config user.name 
+
+//check your user email in git 
+git config user.email 
+
+//initialize a repository 
+git init 
+
+//check status of repository 
+git status 
+
+//add a single/directory to staging area 
+git add [file_name/folder_name]
+
+//add all to staging area
+git add . 
+
+//legends / indicators 
+U - untracked 
+A - added 
+M - modified 
+
+//commit files into repository 
+git commit -m "description of your changes"
