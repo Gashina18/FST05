@@ -42,3 +42,5 @@ git log --oneline
 //change / duplicate a commit version's message 
 git commit --amend -m "description of your change"
 
+//clear commands in git bash terminal 
+clear
